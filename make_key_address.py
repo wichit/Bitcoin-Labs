@@ -22,3 +22,4 @@ print "Private Key Compressed (hex) is: ", compressed_private_key
 # Generate a WIF format from the compressed private key (WIF-compressed)
 # Add a comment line
 # Add a comment line
+# Generate a WIF format from the compressed private key (WIF-compressed)
