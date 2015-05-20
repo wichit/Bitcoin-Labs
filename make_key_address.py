@@ -18,3 +18,5 @@ print "Private Key (WIF) is: ", wif_encoded_private_key
 # Add suffix "01" to indicate a compressed private key
 compressed_private_key = private_key + '01'
 print "Private Key Compressed (hex) is: ", compressed_private_key
+
+# Generate a WIF format from the compressed private key (WIF-compressed)
